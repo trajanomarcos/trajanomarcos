@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, Sou o Trajano!</h1>
+<h1 align="center">Ola 👋, sou o Trajano!</h1>
 <h3 align="center">Um engenheiro civil/ Dev. Front-end, apaixonado por tecnologia e construções.</h3>
 
 - 🔭 Atualmente estou trabalhando no [Face2Face](https://github.com/trajanomarcos/FACE2FACE)
