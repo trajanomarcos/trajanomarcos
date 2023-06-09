@@ -1,7 +1,9 @@
 <h1 align="center">Ola 👋, sou o Trajano!</h1>
+<h2 align="center">Estudando na Sao Paulo Tech School</h3>
 <h3 align="center">Um engenheiro civil/ Dev. Front-end, apaixonado por tecnologia e construções.</h3>
 
-- 🔭 Atualmente estou trabalhando no [Face2Face](https://github.com/trajanomarcos/FACE2FACE)
+
+- 🔭 Atualmente estou trabalhando no projeto [Face2Face](https://github.com/trajanomarcos/FACE2FACE)
 
 - 🌱 Estudando sobre **React**
 
