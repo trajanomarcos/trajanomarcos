@@ -6,7 +6,7 @@
 
 🔭 Atualmente estou trabalhando no projeto [Face2Face](https://github.com/trajanomarcos/FACE2FACE)
 
-🌱 Estudando sobre **React**
+🌱 Estudando sobre **JAVA**
 
 👯 Estou colaborando no projeto [DigitalTherm](https://github.com/PablitoVocci/SPRINT2)
 
