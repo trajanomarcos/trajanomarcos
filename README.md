@@ -1,5 +1,6 @@
 ## Oii! O Marcos Trajano!!!
 <div aling="center"> 
+  <p>Desenvolvedor de Sistemas - Bradesco S.A. </p>
   <p>Estudando na Sao Paulo Tech School </p>
   <p>Um engenheiro civil/ Dev. Front-end, apaixonado por tecnologia e construções.</p>
 </div>
